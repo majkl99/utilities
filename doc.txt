@@ -1,0 +1,3 @@
+Contents:
+   - tex:
+      - a.cpp
