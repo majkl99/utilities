@@ -6,5 +6,5 @@ Contents:
    - 2) cpp:
       - a.cpp
 
-   - 3) cpp:
+   - 3) python:
       - a.py
