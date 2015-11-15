@@ -9,5 +9,7 @@ Contents:
    - 3) python:
       - a.py
 
+   - 4) feature 1
+
 Note from majkl90.
 
